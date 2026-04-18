@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/bhvr_gamejam2026/Saved
+/bhvr_gamejam2026/Saved
+/bhvr_gamejam2026/Intermediate
